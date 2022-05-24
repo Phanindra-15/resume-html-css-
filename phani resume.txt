@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<style>
+p{
+    color:white;
+    text-align:middle;
+    font-weight:bold;
+    font-size:30px
+}
+div{width:800px;height:auto}
+#grey{background-color:burlywood;
+}
+          
+</style>
+</head>
+
+   <div id="grey">
+       <table>
+           <tr><td style="padding-left;border:1px solid green">
+    <p style="font-weight: bold;color:gold">VENKATA PHANINDRA PUNATI</p></td>
+    
+    <td style="text-align:right;border:1px solid green"><a href="mailto:phani.punati@gmail.com"target="_blank"><p id="email">phani.punati@gmail.com</p></a></td></tr>
+</table>
+<table>
+    <tr><td style="font-size:small;border:1px solid green;"><h1> Mallavarapaddu village,Tangutur - AP, Prakasam, 523272, 9640910984</h1></td></tr>
+</table>
+</div>
+   <br>
+   <br>
+   <br>
+   <br>
+   <h3 style="color:red;
+            font-size:large;">OBJECTIVES</h3>
+    <h4 style="font-style:italic;font-size: medium;">To Seek a position in a well-established organization that offers room for professional growth,<br><br>as this provides me ample oppurutunities to exhibit my skills and competencies in the choosen field</h4>
+    <h3 style="color:red">Technical skills</h3>
+    <p>
+        <ul>
+            <li>C</li><br>
+            <li>C++</li><br>
+            <li>Python</li><br>
+            <li>DBMS</li><br>
+            <li>HTML</li><br>
+            <li>CSS</li><br>
+            <li>Bootstrap</li><br>
+            <li>git</li><br>
+        </ul>
+    </p>
+    <h3 style="color:red">Courses</h3>
+    <p>
+        <ul>
+            <li>Completed <span>C Programming</span> in UDEMY</li><br>
+            <li>Completed <span>C++</span> With <span>OOPS</span> concept in UDEMY</li><br>
+            <li>Completed <span>Python Programming</span> Language in UDEMY</li><br>
+            <li>Currently  learning<span>Python-Pandas</span> in UDEMY</li><br>
+        </ul>
+    </p>
+
+    <h3 style="color:red">Educational Qualifications</h3>
+    <table style="border:3px solid black;width:50%">
+        <tr id="heading">
+            <td style="border:1px solid green;">Course</td>
+            <td style="border:1px solid green;">Institution</td>
+            <td style="border:1px solid green;">Board</td>
+            <td style="border:1px solid green;">Percentage/grades</td>
+            <td style="border:1px solid green;">Year</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid green;">B.Tech</td>
+            <td style="border:1px solid green;">Adikavi Nannaya Universty</td>
+            <td style="border:1px solid green;">University college of engineering</td>
+            <td style="border:1px solid green;">8.4 CGPA</td>
+            <td v>2019-2023(currently pursuing)</td>
+            </tr>
+
+        <tr>
+            <td style="border:1px solid green;">Intermidiate</td>
+            <td style="border:1px solid green;">Sri Chaitanya junior college</td>
+            <td style="border:1px solid green;">Board of intermidiate education</td>
+            <td style="border:1px solid green;">95%</td>
+            <td style="border:1px solid green;">2019</td>
+            </tr>
+        <tr>
+        <td style="border:1px solid green;">S.S.C</td>
+        <td style="border:1px solid green;">Sri Chaitanya School</td>
+        <td style="border:1px solid green;">Board of secondary education</td>
+        <td style="border:1px solid green;">93.1%</td>
+        <td style="border:1px solid green;">2017</td>
+        </tr>
+    </table>
+
+
+    <h3 style="color:red">Extra Curicular activities</h3>
+    <p>
+        <ul>
+            <li>I'm the captain of my Btech cricket team</li>
+            <li>We Were runners of the tournament that was conducted in the college</li>
+        </ul>
+    </p>
+
+    <h3 style="color:red">Soft Skills</h3>
+    <p>
+        <ul>
+            <li>Verbal and Written communication</li>
+            <li>Good Listener</li>
+            <li>Hard Working</li>
+        </ul>
+    </p>
+    <h3 style="color:red">References</h3>
+
+    <table><tr>
+   <td><h3>linkedIn - </h3></td><td><a style="font-size:medium;" href="https://www.linkedin.com/in/phanindra-punati-b335b720b"target="_blank"><p id="linkedin">https://www.linkedin.com/in/phanindra-punati-b335b720b</a></td></tr>
+
+
+   <tr> <td> <h3>git hub - </h3></td><td><a  style="font-size:medium "href="https://github.com/Phanindra-15"target="_blank"><p id="github">https://github.com/Phanindra-15</a></td></tr>
+</table>
+
+    
+    
+        
+    </p>
+    <h3 style="color:red">Declaration</h3>
+    <h4 style="font-style: italic;">I hereby declare that the details furnished above are true and correct to the best of my knowledge.</h4>
+    </p>
+    
+</body>
+</html>
